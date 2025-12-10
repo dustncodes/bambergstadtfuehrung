@@ -2,483 +2,499 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://bambergstadtfuehrung.de/fr</loc>
-    <lastmod>2025-12-09T18:34:30.792Z</lastmod>
+    <loc>https://bambergstadtfuehrung.de/fr/</loc>
+    <lastmod>2025-12-10T13:55:49.115Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="de" href="https://bambergstadtfuehrung.de/de" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://bambergstadtfuehrung.de/en" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://bambergstadtfuehrung.de/es" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://bambergstadtfuehrung.de/fr" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://bambergstadtfuehrung.de/it" />
-    <xhtml:link rel="alternate" hreflang="pt" href="https://bambergstadtfuehrung.de/pt" />
-    <xhtml:link rel="alternate" hreflang="nl" href="https://bambergstadtfuehrung.de/nl" />
-    <xhtml:link rel="alternate" hreflang="pl" href="https://bambergstadtfuehrung.de/pl" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://bambergstadtfuehrung.de/ja" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://bambergstadtfuehrung.de/en" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://bambergstadtfuehrung.de/de/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://bambergstadtfuehrung.de/en/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://bambergstadtfuehrung.de/es/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://bambergstadtfuehrung.de/fr/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://bambergstadtfuehrung.de/it/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://bambergstadtfuehrung.de/pt/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://bambergstadtfuehrung.de/nl/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://bambergstadtfuehrung.de/pl/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://bambergstadtfuehrung.de/ja/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bambergstadtfuehrung.de/de/" />
   </url>
   <url>
-    <loc>https://bambergstadtfuehrung.de/fr/poi/alte-hofhaltung/fr</loc>
-    <lastmod>2025-12-09T18:34:30.792Z</lastmod>
+    <loc>https://bambergstadtfuehrung.de/fr/poi/alte-hofhaltung/</loc>
+    <lastmod>2025-12-10T13:55:49.115Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="de" href="https://bambergstadtfuehrung.de/de/poi/alte-hofhaltung/fr" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://bambergstadtfuehrung.de/en/poi/alte-hofhaltung/fr" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://bambergstadtfuehrung.de/es/poi/alte-hofhaltung/fr" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://bambergstadtfuehrung.de/fr/poi/alte-hofhaltung/fr" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://bambergstadtfuehrung.de/it/poi/alte-hofhaltung/fr" />
-    <xhtml:link rel="alternate" hreflang="pt" href="https://bambergstadtfuehrung.de/pt/poi/alte-hofhaltung/fr" />
-    <xhtml:link rel="alternate" hreflang="nl" href="https://bambergstadtfuehrung.de/nl/poi/alte-hofhaltung/fr" />
-    <xhtml:link rel="alternate" hreflang="pl" href="https://bambergstadtfuehrung.de/pl/poi/alte-hofhaltung/fr" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://bambergstadtfuehrung.de/ja/poi/alte-hofhaltung/fr" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://bambergstadtfuehrung.de/en/poi/alte-hofhaltung/fr" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://bambergstadtfuehrung.de/de/poi/alte-hofhaltung/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://bambergstadtfuehrung.de/en/poi/alte-hofhaltung/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://bambergstadtfuehrung.de/es/poi/alte-hofhaltung/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://bambergstadtfuehrung.de/fr/poi/alte-hofhaltung/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://bambergstadtfuehrung.de/it/poi/alte-hofhaltung/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://bambergstadtfuehrung.de/pt/poi/alte-hofhaltung/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://bambergstadtfuehrung.de/nl/poi/alte-hofhaltung/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://bambergstadtfuehrung.de/pl/poi/alte-hofhaltung/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://bambergstadtfuehrung.de/ja/poi/alte-hofhaltung/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bambergstadtfuehrung.de/de/poi/alte-hofhaltung/" />
   </url>
   <url>
-    <loc>https://bambergstadtfuehrung.de/fr/poi/altes-rathaus/fr</loc>
-    <lastmod>2025-12-09T18:34:30.792Z</lastmod>
+    <loc>https://bambergstadtfuehrung.de/fr/poi/altes-rathaus/</loc>
+    <lastmod>2025-12-10T13:55:49.115Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="de" href="https://bambergstadtfuehrung.de/de/poi/altes-rathaus/fr" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://bambergstadtfuehrung.de/en/poi/altes-rathaus/fr" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://bambergstadtfuehrung.de/es/poi/altes-rathaus/fr" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://bambergstadtfuehrung.de/fr/poi/altes-rathaus/fr" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://bambergstadtfuehrung.de/it/poi/altes-rathaus/fr" />
-    <xhtml:link rel="alternate" hreflang="pt" href="https://bambergstadtfuehrung.de/pt/poi/altes-rathaus/fr" />
-    <xhtml:link rel="alternate" hreflang="nl" href="https://bambergstadtfuehrung.de/nl/poi/altes-rathaus/fr" />
-    <xhtml:link rel="alternate" hreflang="pl" href="https://bambergstadtfuehrung.de/pl/poi/altes-rathaus/fr" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://bambergstadtfuehrung.de/ja/poi/altes-rathaus/fr" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://bambergstadtfuehrung.de/en/poi/altes-rathaus/fr" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://bambergstadtfuehrung.de/de/poi/altes-rathaus/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://bambergstadtfuehrung.de/en/poi/altes-rathaus/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://bambergstadtfuehrung.de/es/poi/altes-rathaus/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://bambergstadtfuehrung.de/fr/poi/altes-rathaus/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://bambergstadtfuehrung.de/it/poi/altes-rathaus/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://bambergstadtfuehrung.de/pt/poi/altes-rathaus/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://bambergstadtfuehrung.de/nl/poi/altes-rathaus/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://bambergstadtfuehrung.de/pl/poi/altes-rathaus/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://bambergstadtfuehrung.de/ja/poi/altes-rathaus/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bambergstadtfuehrung.de/de/poi/altes-rathaus/" />
   </url>
   <url>
-    <loc>https://bambergstadtfuehrung.de/fr/poi/an-den-kranen/fr</loc>
-    <lastmod>2025-12-09T18:34:30.792Z</lastmod>
+    <loc>https://bambergstadtfuehrung.de/fr/poi/an-den-kranen/</loc>
+    <lastmod>2025-12-10T13:55:49.115Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="de" href="https://bambergstadtfuehrung.de/de/poi/an-den-kranen/fr" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://bambergstadtfuehrung.de/en/poi/an-den-kranen/fr" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://bambergstadtfuehrung.de/es/poi/an-den-kranen/fr" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://bambergstadtfuehrung.de/fr/poi/an-den-kranen/fr" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://bambergstadtfuehrung.de/it/poi/an-den-kranen/fr" />
-    <xhtml:link rel="alternate" hreflang="pt" href="https://bambergstadtfuehrung.de/pt/poi/an-den-kranen/fr" />
-    <xhtml:link rel="alternate" hreflang="nl" href="https://bambergstadtfuehrung.de/nl/poi/an-den-kranen/fr" />
-    <xhtml:link rel="alternate" hreflang="pl" href="https://bambergstadtfuehrung.de/pl/poi/an-den-kranen/fr" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://bambergstadtfuehrung.de/ja/poi/an-den-kranen/fr" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://bambergstadtfuehrung.de/en/poi/an-den-kranen/fr" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://bambergstadtfuehrung.de/de/poi/an-den-kranen/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://bambergstadtfuehrung.de/en/poi/an-den-kranen/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://bambergstadtfuehrung.de/es/poi/an-den-kranen/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://bambergstadtfuehrung.de/fr/poi/an-den-kranen/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://bambergstadtfuehrung.de/it/poi/an-den-kranen/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://bambergstadtfuehrung.de/pt/poi/an-den-kranen/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://bambergstadtfuehrung.de/nl/poi/an-den-kranen/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://bambergstadtfuehrung.de/pl/poi/an-den-kranen/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://bambergstadtfuehrung.de/ja/poi/an-den-kranen/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bambergstadtfuehrung.de/de/poi/an-den-kranen/" />
   </url>
   <url>
-    <loc>https://bambergstadtfuehrung.de/fr/poi/bamberger-dom/fr</loc>
-    <lastmod>2025-12-09T18:34:30.792Z</lastmod>
+    <loc>https://bambergstadtfuehrung.de/fr/poi/bamberger-dom/</loc>
+    <lastmod>2025-12-10T13:55:49.115Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="de" href="https://bambergstadtfuehrung.de/de/poi/bamberger-dom/fr" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://bambergstadtfuehrung.de/en/poi/bamberger-dom/fr" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://bambergstadtfuehrung.de/es/poi/bamberger-dom/fr" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://bambergstadtfuehrung.de/fr/poi/bamberger-dom/fr" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://bambergstadtfuehrung.de/it/poi/bamberger-dom/fr" />
-    <xhtml:link rel="alternate" hreflang="pt" href="https://bambergstadtfuehrung.de/pt/poi/bamberger-dom/fr" />
-    <xhtml:link rel="alternate" hreflang="nl" href="https://bambergstadtfuehrung.de/nl/poi/bamberger-dom/fr" />
-    <xhtml:link rel="alternate" hreflang="pl" href="https://bambergstadtfuehrung.de/pl/poi/bamberger-dom/fr" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://bambergstadtfuehrung.de/ja/poi/bamberger-dom/fr" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://bambergstadtfuehrung.de/en/poi/bamberger-dom/fr" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://bambergstadtfuehrung.de/de/poi/bamberger-dom/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://bambergstadtfuehrung.de/en/poi/bamberger-dom/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://bambergstadtfuehrung.de/es/poi/bamberger-dom/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://bambergstadtfuehrung.de/fr/poi/bamberger-dom/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://bambergstadtfuehrung.de/it/poi/bamberger-dom/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://bambergstadtfuehrung.de/pt/poi/bamberger-dom/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://bambergstadtfuehrung.de/nl/poi/bamberger-dom/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://bambergstadtfuehrung.de/pl/poi/bamberger-dom/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://bambergstadtfuehrung.de/ja/poi/bamberger-dom/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bambergstadtfuehrung.de/de/poi/bamberger-dom/" />
   </url>
   <url>
-    <loc>https://bambergstadtfuehrung.de/fr/poi/der-gabelmann/fr</loc>
-    <lastmod>2025-12-09T18:34:30.792Z</lastmod>
+    <loc>https://bambergstadtfuehrung.de/fr/poi/der-gabelmann/</loc>
+    <lastmod>2025-12-10T13:55:49.115Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="de" href="https://bambergstadtfuehrung.de/de/poi/der-gabelmann/fr" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://bambergstadtfuehrung.de/en/poi/der-gabelmann/fr" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://bambergstadtfuehrung.de/es/poi/der-gabelmann/fr" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://bambergstadtfuehrung.de/fr/poi/der-gabelmann/fr" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://bambergstadtfuehrung.de/it/poi/der-gabelmann/fr" />
-    <xhtml:link rel="alternate" hreflang="pt" href="https://bambergstadtfuehrung.de/pt/poi/der-gabelmann/fr" />
-    <xhtml:link rel="alternate" hreflang="nl" href="https://bambergstadtfuehrung.de/nl/poi/der-gabelmann/fr" />
-    <xhtml:link rel="alternate" hreflang="pl" href="https://bambergstadtfuehrung.de/pl/poi/der-gabelmann/fr" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://bambergstadtfuehrung.de/ja/poi/der-gabelmann/fr" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://bambergstadtfuehrung.de/en/poi/der-gabelmann/fr" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://bambergstadtfuehrung.de/de/poi/der-gabelmann/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://bambergstadtfuehrung.de/en/poi/der-gabelmann/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://bambergstadtfuehrung.de/es/poi/der-gabelmann/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://bambergstadtfuehrung.de/fr/poi/der-gabelmann/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://bambergstadtfuehrung.de/it/poi/der-gabelmann/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://bambergstadtfuehrung.de/pt/poi/der-gabelmann/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://bambergstadtfuehrung.de/nl/poi/der-gabelmann/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://bambergstadtfuehrung.de/pl/poi/der-gabelmann/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://bambergstadtfuehrung.de/ja/poi/der-gabelmann/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bambergstadtfuehrung.de/de/poi/der-gabelmann/" />
   </url>
   <url>
-    <loc>https://bambergstadtfuehrung.de/fr/poi/dioezesanmuseum/fr</loc>
-    <lastmod>2025-12-09T18:34:30.792Z</lastmod>
+    <loc>https://bambergstadtfuehrung.de/fr/poi/dioezesanmuseum/</loc>
+    <lastmod>2025-12-10T13:55:49.115Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="de" href="https://bambergstadtfuehrung.de/de/poi/dioezesanmuseum/fr" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://bambergstadtfuehrung.de/en/poi/dioezesanmuseum/fr" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://bambergstadtfuehrung.de/es/poi/dioezesanmuseum/fr" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://bambergstadtfuehrung.de/fr/poi/dioezesanmuseum/fr" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://bambergstadtfuehrung.de/it/poi/dioezesanmuseum/fr" />
-    <xhtml:link rel="alternate" hreflang="pt" href="https://bambergstadtfuehrung.de/pt/poi/dioezesanmuseum/fr" />
-    <xhtml:link rel="alternate" hreflang="nl" href="https://bambergstadtfuehrung.de/nl/poi/dioezesanmuseum/fr" />
-    <xhtml:link rel="alternate" hreflang="pl" href="https://bambergstadtfuehrung.de/pl/poi/dioezesanmuseum/fr" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://bambergstadtfuehrung.de/ja/poi/dioezesanmuseum/fr" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://bambergstadtfuehrung.de/en/poi/dioezesanmuseum/fr" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://bambergstadtfuehrung.de/de/poi/dioezesanmuseum/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://bambergstadtfuehrung.de/en/poi/dioezesanmuseum/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://bambergstadtfuehrung.de/es/poi/dioezesanmuseum/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://bambergstadtfuehrung.de/fr/poi/dioezesanmuseum/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://bambergstadtfuehrung.de/it/poi/dioezesanmuseum/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://bambergstadtfuehrung.de/pt/poi/dioezesanmuseum/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://bambergstadtfuehrung.de/nl/poi/dioezesanmuseum/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://bambergstadtfuehrung.de/pl/poi/dioezesanmuseum/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://bambergstadtfuehrung.de/ja/poi/dioezesanmuseum/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bambergstadtfuehrung.de/de/poi/dioezesanmuseum/" />
   </url>
   <url>
-    <loc>https://bambergstadtfuehrung.de/fr/poi/don-bosco-faehre/fr</loc>
-    <lastmod>2025-12-09T18:34:30.792Z</lastmod>
+    <loc>https://bambergstadtfuehrung.de/fr/poi/don-bosco-faehre/</loc>
+    <lastmod>2025-12-10T13:55:49.115Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="de" href="https://bambergstadtfuehrung.de/de/poi/don-bosco-faehre/fr" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://bambergstadtfuehrung.de/en/poi/don-bosco-faehre/fr" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://bambergstadtfuehrung.de/es/poi/don-bosco-faehre/fr" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://bambergstadtfuehrung.de/fr/poi/don-bosco-faehre/fr" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://bambergstadtfuehrung.de/it/poi/don-bosco-faehre/fr" />
-    <xhtml:link rel="alternate" hreflang="pt" href="https://bambergstadtfuehrung.de/pt/poi/don-bosco-faehre/fr" />
-    <xhtml:link rel="alternate" hreflang="nl" href="https://bambergstadtfuehrung.de/nl/poi/don-bosco-faehre/fr" />
-    <xhtml:link rel="alternate" hreflang="pl" href="https://bambergstadtfuehrung.de/pl/poi/don-bosco-faehre/fr" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://bambergstadtfuehrung.de/ja/poi/don-bosco-faehre/fr" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://bambergstadtfuehrung.de/en/poi/don-bosco-faehre/fr" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://bambergstadtfuehrung.de/de/poi/don-bosco-faehre/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://bambergstadtfuehrung.de/en/poi/don-bosco-faehre/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://bambergstadtfuehrung.de/es/poi/don-bosco-faehre/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://bambergstadtfuehrung.de/fr/poi/don-bosco-faehre/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://bambergstadtfuehrung.de/it/poi/don-bosco-faehre/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://bambergstadtfuehrung.de/pt/poi/don-bosco-faehre/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://bambergstadtfuehrung.de/nl/poi/don-bosco-faehre/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://bambergstadtfuehrung.de/pl/poi/don-bosco-faehre/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://bambergstadtfuehrung.de/ja/poi/don-bosco-faehre/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bambergstadtfuehrung.de/de/poi/don-bosco-faehre/" />
   </url>
   <url>
-    <loc>https://bambergstadtfuehrung.de/fr/poi/fraenkisches-brauereimuseum/fr</loc>
-    <lastmod>2025-12-09T18:34:30.792Z</lastmod>
+    <loc>https://bambergstadtfuehrung.de/fr/poi/fraenkisches-brauereimuseum/</loc>
+    <lastmod>2025-12-10T13:55:49.115Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="de" href="https://bambergstadtfuehrung.de/de/poi/fraenkisches-brauereimuseum/fr" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://bambergstadtfuehrung.de/en/poi/fraenkisches-brauereimuseum/fr" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://bambergstadtfuehrung.de/es/poi/fraenkisches-brauereimuseum/fr" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://bambergstadtfuehrung.de/fr/poi/fraenkisches-brauereimuseum/fr" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://bambergstadtfuehrung.de/it/poi/fraenkisches-brauereimuseum/fr" />
-    <xhtml:link rel="alternate" hreflang="pt" href="https://bambergstadtfuehrung.de/pt/poi/fraenkisches-brauereimuseum/fr" />
-    <xhtml:link rel="alternate" hreflang="nl" href="https://bambergstadtfuehrung.de/nl/poi/fraenkisches-brauereimuseum/fr" />
-    <xhtml:link rel="alternate" hreflang="pl" href="https://bambergstadtfuehrung.de/pl/poi/fraenkisches-brauereimuseum/fr" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://bambergstadtfuehrung.de/ja/poi/fraenkisches-brauereimuseum/fr" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://bambergstadtfuehrung.de/en/poi/fraenkisches-brauereimuseum/fr" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://bambergstadtfuehrung.de/de/poi/fraenkisches-brauereimuseum/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://bambergstadtfuehrung.de/en/poi/fraenkisches-brauereimuseum/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://bambergstadtfuehrung.de/es/poi/fraenkisches-brauereimuseum/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://bambergstadtfuehrung.de/fr/poi/fraenkisches-brauereimuseum/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://bambergstadtfuehrung.de/it/poi/fraenkisches-brauereimuseum/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://bambergstadtfuehrung.de/pt/poi/fraenkisches-brauereimuseum/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://bambergstadtfuehrung.de/nl/poi/fraenkisches-brauereimuseum/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://bambergstadtfuehrung.de/pl/poi/fraenkisches-brauereimuseum/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://bambergstadtfuehrung.de/ja/poi/fraenkisches-brauereimuseum/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bambergstadtfuehrung.de/de/poi/fraenkisches-brauereimuseum/" />
   </url>
   <url>
-    <loc>https://bambergstadtfuehrung.de/fr/poi/fuerstenportal/fr</loc>
-    <lastmod>2025-12-09T18:34:30.792Z</lastmod>
+    <loc>https://bambergstadtfuehrung.de/fr/poi/fuerstenportal/</loc>
+    <lastmod>2025-12-10T13:55:49.115Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="de" href="https://bambergstadtfuehrung.de/de/poi/fuerstenportal/fr" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://bambergstadtfuehrung.de/en/poi/fuerstenportal/fr" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://bambergstadtfuehrung.de/es/poi/fuerstenportal/fr" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://bambergstadtfuehrung.de/fr/poi/fuerstenportal/fr" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://bambergstadtfuehrung.de/it/poi/fuerstenportal/fr" />
-    <xhtml:link rel="alternate" hreflang="pt" href="https://bambergstadtfuehrung.de/pt/poi/fuerstenportal/fr" />
-    <xhtml:link rel="alternate" hreflang="nl" href="https://bambergstadtfuehrung.de/nl/poi/fuerstenportal/fr" />
-    <xhtml:link rel="alternate" hreflang="pl" href="https://bambergstadtfuehrung.de/pl/poi/fuerstenportal/fr" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://bambergstadtfuehrung.de/ja/poi/fuerstenportal/fr" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://bambergstadtfuehrung.de/en/poi/fuerstenportal/fr" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://bambergstadtfuehrung.de/de/poi/fuerstenportal/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://bambergstadtfuehrung.de/en/poi/fuerstenportal/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://bambergstadtfuehrung.de/es/poi/fuerstenportal/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://bambergstadtfuehrung.de/fr/poi/fuerstenportal/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://bambergstadtfuehrung.de/it/poi/fuerstenportal/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://bambergstadtfuehrung.de/pt/poi/fuerstenportal/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://bambergstadtfuehrung.de/nl/poi/fuerstenportal/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://bambergstadtfuehrung.de/pl/poi/fuerstenportal/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://bambergstadtfuehrung.de/ja/poi/fuerstenportal/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bambergstadtfuehrung.de/de/poi/fuerstenportal/" />
   </url>
   <url>
-    <loc>https://bambergstadtfuehrung.de/fr/poi/gruener-markt/fr</loc>
-    <lastmod>2025-12-09T18:34:30.792Z</lastmod>
+    <loc>https://bambergstadtfuehrung.de/fr/poi/gruener-markt/</loc>
+    <lastmod>2025-12-10T13:55:49.115Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="de" href="https://bambergstadtfuehrung.de/de/poi/gruener-markt/fr" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://bambergstadtfuehrung.de/en/poi/gruener-markt/fr" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://bambergstadtfuehrung.de/es/poi/gruener-markt/fr" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://bambergstadtfuehrung.de/fr/poi/gruener-markt/fr" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://bambergstadtfuehrung.de/it/poi/gruener-markt/fr" />
-    <xhtml:link rel="alternate" hreflang="pt" href="https://bambergstadtfuehrung.de/pt/poi/gruener-markt/fr" />
-    <xhtml:link rel="alternate" hreflang="nl" href="https://bambergstadtfuehrung.de/nl/poi/gruener-markt/fr" />
-    <xhtml:link rel="alternate" hreflang="pl" href="https://bambergstadtfuehrung.de/pl/poi/gruener-markt/fr" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://bambergstadtfuehrung.de/ja/poi/gruener-markt/fr" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://bambergstadtfuehrung.de/en/poi/gruener-markt/fr" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://bambergstadtfuehrung.de/de/poi/gruener-markt/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://bambergstadtfuehrung.de/en/poi/gruener-markt/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://bambergstadtfuehrung.de/es/poi/gruener-markt/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://bambergstadtfuehrung.de/fr/poi/gruener-markt/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://bambergstadtfuehrung.de/it/poi/gruener-markt/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://bambergstadtfuehrung.de/pt/poi/gruener-markt/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://bambergstadtfuehrung.de/nl/poi/gruener-markt/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://bambergstadtfuehrung.de/pl/poi/gruener-markt/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://bambergstadtfuehrung.de/ja/poi/gruener-markt/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bambergstadtfuehrung.de/de/poi/gruener-markt/" />
   </url>
   <url>
-    <loc>https://bambergstadtfuehrung.de/fr/poi/heilige-kunigunde/fr</loc>
-    <lastmod>2025-12-09T18:34:30.792Z</lastmod>
+    <loc>https://bambergstadtfuehrung.de/fr/poi/heilige-kunigunde/</loc>
+    <lastmod>2025-12-10T13:55:49.115Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="de" href="https://bambergstadtfuehrung.de/de/poi/heilige-kunigunde/fr" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://bambergstadtfuehrung.de/en/poi/heilige-kunigunde/fr" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://bambergstadtfuehrung.de/es/poi/heilige-kunigunde/fr" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://bambergstadtfuehrung.de/fr/poi/heilige-kunigunde/fr" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://bambergstadtfuehrung.de/it/poi/heilige-kunigunde/fr" />
-    <xhtml:link rel="alternate" hreflang="pt" href="https://bambergstadtfuehrung.de/pt/poi/heilige-kunigunde/fr" />
-    <xhtml:link rel="alternate" hreflang="nl" href="https://bambergstadtfuehrung.de/nl/poi/heilige-kunigunde/fr" />
-    <xhtml:link rel="alternate" hreflang="pl" href="https://bambergstadtfuehrung.de/pl/poi/heilige-kunigunde/fr" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://bambergstadtfuehrung.de/ja/poi/heilige-kunigunde/fr" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://bambergstadtfuehrung.de/en/poi/heilige-kunigunde/fr" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://bambergstadtfuehrung.de/de/poi/heilige-kunigunde/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://bambergstadtfuehrung.de/en/poi/heilige-kunigunde/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://bambergstadtfuehrung.de/es/poi/heilige-kunigunde/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://bambergstadtfuehrung.de/fr/poi/heilige-kunigunde/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://bambergstadtfuehrung.de/it/poi/heilige-kunigunde/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://bambergstadtfuehrung.de/pt/poi/heilige-kunigunde/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://bambergstadtfuehrung.de/nl/poi/heilige-kunigunde/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://bambergstadtfuehrung.de/pl/poi/heilige-kunigunde/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://bambergstadtfuehrung.de/ja/poi/heilige-kunigunde/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bambergstadtfuehrung.de/de/poi/heilige-kunigunde/" />
   </url>
   <url>
-    <loc>https://bambergstadtfuehrung.de/fr/poi/historisches-museum/fr</loc>
-    <lastmod>2025-12-09T18:34:30.792Z</lastmod>
+    <loc>https://bambergstadtfuehrung.de/fr/poi/historisches-museum/</loc>
+    <lastmod>2025-12-10T13:55:49.115Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="de" href="https://bambergstadtfuehrung.de/de/poi/historisches-museum/fr" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://bambergstadtfuehrung.de/en/poi/historisches-museum/fr" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://bambergstadtfuehrung.de/es/poi/historisches-museum/fr" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://bambergstadtfuehrung.de/fr/poi/historisches-museum/fr" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://bambergstadtfuehrung.de/it/poi/historisches-museum/fr" />
-    <xhtml:link rel="alternate" hreflang="pt" href="https://bambergstadtfuehrung.de/pt/poi/historisches-museum/fr" />
-    <xhtml:link rel="alternate" hreflang="nl" href="https://bambergstadtfuehrung.de/nl/poi/historisches-museum/fr" />
-    <xhtml:link rel="alternate" hreflang="pl" href="https://bambergstadtfuehrung.de/pl/poi/historisches-museum/fr" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://bambergstadtfuehrung.de/ja/poi/historisches-museum/fr" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://bambergstadtfuehrung.de/en/poi/historisches-museum/fr" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://bambergstadtfuehrung.de/de/poi/historisches-museum/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://bambergstadtfuehrung.de/en/poi/historisches-museum/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://bambergstadtfuehrung.de/es/poi/historisches-museum/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://bambergstadtfuehrung.de/fr/poi/historisches-museum/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://bambergstadtfuehrung.de/it/poi/historisches-museum/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://bambergstadtfuehrung.de/pt/poi/historisches-museum/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://bambergstadtfuehrung.de/nl/poi/historisches-museum/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://bambergstadtfuehrung.de/pl/poi/historisches-museum/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://bambergstadtfuehrung.de/ja/poi/historisches-museum/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bambergstadtfuehrung.de/de/poi/historisches-museum/" />
   </url>
   <url>
-    <loc>https://bambergstadtfuehrung.de/fr/poi/kirche-st-martin/fr</loc>
-    <lastmod>2025-12-09T18:34:30.792Z</lastmod>
+    <loc>https://bambergstadtfuehrung.de/fr/poi/kirche-st-martin/</loc>
+    <lastmod>2025-12-10T13:55:49.115Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="de" href="https://bambergstadtfuehrung.de/de/poi/kirche-st-martin/fr" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://bambergstadtfuehrung.de/en/poi/kirche-st-martin/fr" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://bambergstadtfuehrung.de/es/poi/kirche-st-martin/fr" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://bambergstadtfuehrung.de/fr/poi/kirche-st-martin/fr" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://bambergstadtfuehrung.de/it/poi/kirche-st-martin/fr" />
-    <xhtml:link rel="alternate" hreflang="pt" href="https://bambergstadtfuehrung.de/pt/poi/kirche-st-martin/fr" />
-    <xhtml:link rel="alternate" hreflang="nl" href="https://bambergstadtfuehrung.de/nl/poi/kirche-st-martin/fr" />
-    <xhtml:link rel="alternate" hreflang="pl" href="https://bambergstadtfuehrung.de/pl/poi/kirche-st-martin/fr" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://bambergstadtfuehrung.de/ja/poi/kirche-st-martin/fr" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://bambergstadtfuehrung.de/en/poi/kirche-st-martin/fr" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://bambergstadtfuehrung.de/de/poi/kirche-st-martin/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://bambergstadtfuehrung.de/en/poi/kirche-st-martin/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://bambergstadtfuehrung.de/es/poi/kirche-st-martin/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://bambergstadtfuehrung.de/fr/poi/kirche-st-martin/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://bambergstadtfuehrung.de/it/poi/kirche-st-martin/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://bambergstadtfuehrung.de/pt/poi/kirche-st-martin/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://bambergstadtfuehrung.de/nl/poi/kirche-st-martin/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://bambergstadtfuehrung.de/pl/poi/kirche-st-martin/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://bambergstadtfuehrung.de/ja/poi/kirche-st-martin/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bambergstadtfuehrung.de/de/poi/kirche-st-martin/" />
   </url>
   <url>
-    <loc>https://bambergstadtfuehrung.de/fr/poi/klein-venedig/fr</loc>
-    <lastmod>2025-12-09T18:34:30.792Z</lastmod>
+    <loc>https://bambergstadtfuehrung.de/fr/poi/klein-venedig/</loc>
+    <lastmod>2025-12-10T13:55:49.115Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="de" href="https://bambergstadtfuehrung.de/de/poi/klein-venedig/fr" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://bambergstadtfuehrung.de/en/poi/klein-venedig/fr" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://bambergstadtfuehrung.de/es/poi/klein-venedig/fr" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://bambergstadtfuehrung.de/fr/poi/klein-venedig/fr" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://bambergstadtfuehrung.de/it/poi/klein-venedig/fr" />
-    <xhtml:link rel="alternate" hreflang="pt" href="https://bambergstadtfuehrung.de/pt/poi/klein-venedig/fr" />
-    <xhtml:link rel="alternate" hreflang="nl" href="https://bambergstadtfuehrung.de/nl/poi/klein-venedig/fr" />
-    <xhtml:link rel="alternate" hreflang="pl" href="https://bambergstadtfuehrung.de/pl/poi/klein-venedig/fr" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://bambergstadtfuehrung.de/ja/poi/klein-venedig/fr" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://bambergstadtfuehrung.de/en/poi/klein-venedig/fr" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://bambergstadtfuehrung.de/de/poi/klein-venedig/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://bambergstadtfuehrung.de/en/poi/klein-venedig/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://bambergstadtfuehrung.de/es/poi/klein-venedig/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://bambergstadtfuehrung.de/fr/poi/klein-venedig/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://bambergstadtfuehrung.de/it/poi/klein-venedig/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://bambergstadtfuehrung.de/pt/poi/klein-venedig/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://bambergstadtfuehrung.de/nl/poi/klein-venedig/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://bambergstadtfuehrung.de/pl/poi/klein-venedig/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://bambergstadtfuehrung.de/ja/poi/klein-venedig/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bambergstadtfuehrung.de/de/poi/klein-venedig/" />
   </url>
   <url>
-    <loc>https://bambergstadtfuehrung.de/fr/poi/kloster-michaelsberg/fr</loc>
-    <lastmod>2025-12-09T18:34:30.792Z</lastmod>
+    <loc>https://bambergstadtfuehrung.de/fr/poi/kloster-michaelsberg/</loc>
+    <lastmod>2025-12-10T13:55:49.115Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="de" href="https://bambergstadtfuehrung.de/de/poi/kloster-michaelsberg/fr" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://bambergstadtfuehrung.de/en/poi/kloster-michaelsberg/fr" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://bambergstadtfuehrung.de/es/poi/kloster-michaelsberg/fr" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://bambergstadtfuehrung.de/fr/poi/kloster-michaelsberg/fr" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://bambergstadtfuehrung.de/it/poi/kloster-michaelsberg/fr" />
-    <xhtml:link rel="alternate" hreflang="pt" href="https://bambergstadtfuehrung.de/pt/poi/kloster-michaelsberg/fr" />
-    <xhtml:link rel="alternate" hreflang="nl" href="https://bambergstadtfuehrung.de/nl/poi/kloster-michaelsberg/fr" />
-    <xhtml:link rel="alternate" hreflang="pl" href="https://bambergstadtfuehrung.de/pl/poi/kloster-michaelsberg/fr" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://bambergstadtfuehrung.de/ja/poi/kloster-michaelsberg/fr" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://bambergstadtfuehrung.de/en/poi/kloster-michaelsberg/fr" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://bambergstadtfuehrung.de/de/poi/kloster-michaelsberg/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://bambergstadtfuehrung.de/en/poi/kloster-michaelsberg/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://bambergstadtfuehrung.de/es/poi/kloster-michaelsberg/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://bambergstadtfuehrung.de/fr/poi/kloster-michaelsberg/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://bambergstadtfuehrung.de/it/poi/kloster-michaelsberg/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://bambergstadtfuehrung.de/pt/poi/kloster-michaelsberg/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://bambergstadtfuehrung.de/nl/poi/kloster-michaelsberg/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://bambergstadtfuehrung.de/pl/poi/kloster-michaelsberg/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://bambergstadtfuehrung.de/ja/poi/kloster-michaelsberg/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bambergstadtfuehrung.de/de/poi/kloster-michaelsberg/" />
   </url>
   <url>
-    <loc>https://bambergstadtfuehrung.de/fr/poi/maximiliansplatz/fr</loc>
-    <lastmod>2025-12-09T18:34:30.792Z</lastmod>
+    <loc>https://bambergstadtfuehrung.de/fr/poi/maximiliansplatz/</loc>
+    <lastmod>2025-12-10T13:55:49.115Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="de" href="https://bambergstadtfuehrung.de/de/poi/maximiliansplatz/fr" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://bambergstadtfuehrung.de/en/poi/maximiliansplatz/fr" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://bambergstadtfuehrung.de/es/poi/maximiliansplatz/fr" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://bambergstadtfuehrung.de/fr/poi/maximiliansplatz/fr" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://bambergstadtfuehrung.de/it/poi/maximiliansplatz/fr" />
-    <xhtml:link rel="alternate" hreflang="pt" href="https://bambergstadtfuehrung.de/pt/poi/maximiliansplatz/fr" />
-    <xhtml:link rel="alternate" hreflang="nl" href="https://bambergstadtfuehrung.de/nl/poi/maximiliansplatz/fr" />
-    <xhtml:link rel="alternate" hreflang="pl" href="https://bambergstadtfuehrung.de/pl/poi/maximiliansplatz/fr" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://bambergstadtfuehrung.de/ja/poi/maximiliansplatz/fr" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://bambergstadtfuehrung.de/en/poi/maximiliansplatz/fr" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://bambergstadtfuehrung.de/de/poi/maximiliansplatz/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://bambergstadtfuehrung.de/en/poi/maximiliansplatz/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://bambergstadtfuehrung.de/es/poi/maximiliansplatz/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://bambergstadtfuehrung.de/fr/poi/maximiliansplatz/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://bambergstadtfuehrung.de/it/poi/maximiliansplatz/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://bambergstadtfuehrung.de/pt/poi/maximiliansplatz/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://bambergstadtfuehrung.de/nl/poi/maximiliansplatz/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://bambergstadtfuehrung.de/pl/poi/maximiliansplatz/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://bambergstadtfuehrung.de/ja/poi/maximiliansplatz/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bambergstadtfuehrung.de/de/poi/maximiliansplatz/" />
   </url>
   <url>
-    <loc>https://bambergstadtfuehrung.de/fr/poi/neue-residenz/fr</loc>
-    <lastmod>2025-12-09T18:34:30.792Z</lastmod>
+    <loc>https://bambergstadtfuehrung.de/fr/poi/neue-residenz/</loc>
+    <lastmod>2025-12-10T13:55:49.115Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="de" href="https://bambergstadtfuehrung.de/de/poi/neue-residenz/fr" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://bambergstadtfuehrung.de/en/poi/neue-residenz/fr" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://bambergstadtfuehrung.de/es/poi/neue-residenz/fr" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://bambergstadtfuehrung.de/fr/poi/neue-residenz/fr" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://bambergstadtfuehrung.de/it/poi/neue-residenz/fr" />
-    <xhtml:link rel="alternate" hreflang="pt" href="https://bambergstadtfuehrung.de/pt/poi/neue-residenz/fr" />
-    <xhtml:link rel="alternate" hreflang="nl" href="https://bambergstadtfuehrung.de/nl/poi/neue-residenz/fr" />
-    <xhtml:link rel="alternate" hreflang="pl" href="https://bambergstadtfuehrung.de/pl/poi/neue-residenz/fr" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://bambergstadtfuehrung.de/ja/poi/neue-residenz/fr" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://bambergstadtfuehrung.de/en/poi/neue-residenz/fr" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://bambergstadtfuehrung.de/de/poi/neue-residenz/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://bambergstadtfuehrung.de/en/poi/neue-residenz/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://bambergstadtfuehrung.de/es/poi/neue-residenz/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://bambergstadtfuehrung.de/fr/poi/neue-residenz/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://bambergstadtfuehrung.de/it/poi/neue-residenz/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://bambergstadtfuehrung.de/pt/poi/neue-residenz/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://bambergstadtfuehrung.de/nl/poi/neue-residenz/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://bambergstadtfuehrung.de/pl/poi/neue-residenz/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://bambergstadtfuehrung.de/ja/poi/neue-residenz/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bambergstadtfuehrung.de/de/poi/neue-residenz/" />
   </url>
   <url>
-    <loc>https://bambergstadtfuehrung.de/fr/poi/obere-bruecke/fr</loc>
-    <lastmod>2025-12-09T18:34:30.792Z</lastmod>
+    <loc>https://bambergstadtfuehrung.de/fr/poi/obere-bruecke/</loc>
+    <lastmod>2025-12-10T13:55:49.115Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="de" href="https://bambergstadtfuehrung.de/de/poi/obere-bruecke/fr" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://bambergstadtfuehrung.de/en/poi/obere-bruecke/fr" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://bambergstadtfuehrung.de/es/poi/obere-bruecke/fr" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://bambergstadtfuehrung.de/fr/poi/obere-bruecke/fr" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://bambergstadtfuehrung.de/it/poi/obere-bruecke/fr" />
-    <xhtml:link rel="alternate" hreflang="pt" href="https://bambergstadtfuehrung.de/pt/poi/obere-bruecke/fr" />
-    <xhtml:link rel="alternate" hreflang="nl" href="https://bambergstadtfuehrung.de/nl/poi/obere-bruecke/fr" />
-    <xhtml:link rel="alternate" hreflang="pl" href="https://bambergstadtfuehrung.de/pl/poi/obere-bruecke/fr" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://bambergstadtfuehrung.de/ja/poi/obere-bruecke/fr" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://bambergstadtfuehrung.de/en/poi/obere-bruecke/fr" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://bambergstadtfuehrung.de/de/poi/obere-bruecke/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://bambergstadtfuehrung.de/en/poi/obere-bruecke/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://bambergstadtfuehrung.de/es/poi/obere-bruecke/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://bambergstadtfuehrung.de/fr/poi/obere-bruecke/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://bambergstadtfuehrung.de/it/poi/obere-bruecke/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://bambergstadtfuehrung.de/pt/poi/obere-bruecke/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://bambergstadtfuehrung.de/nl/poi/obere-bruecke/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://bambergstadtfuehrung.de/pl/poi/obere-bruecke/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://bambergstadtfuehrung.de/ja/poi/obere-bruecke/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bambergstadtfuehrung.de/de/poi/obere-bruecke/" />
   </url>
   <url>
-    <loc>https://bambergstadtfuehrung.de/fr/poi/rosengarten/fr</loc>
-    <lastmod>2025-12-09T18:34:30.792Z</lastmod>
+    <loc>https://bambergstadtfuehrung.de/fr/poi/rosengarten/</loc>
+    <lastmod>2025-12-10T13:55:49.115Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="de" href="https://bambergstadtfuehrung.de/de/poi/rosengarten/fr" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://bambergstadtfuehrung.de/en/poi/rosengarten/fr" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://bambergstadtfuehrung.de/es/poi/rosengarten/fr" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://bambergstadtfuehrung.de/fr/poi/rosengarten/fr" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://bambergstadtfuehrung.de/it/poi/rosengarten/fr" />
-    <xhtml:link rel="alternate" hreflang="pt" href="https://bambergstadtfuehrung.de/pt/poi/rosengarten/fr" />
-    <xhtml:link rel="alternate" hreflang="nl" href="https://bambergstadtfuehrung.de/nl/poi/rosengarten/fr" />
-    <xhtml:link rel="alternate" hreflang="pl" href="https://bambergstadtfuehrung.de/pl/poi/rosengarten/fr" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://bambergstadtfuehrung.de/ja/poi/rosengarten/fr" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://bambergstadtfuehrung.de/en/poi/rosengarten/fr" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://bambergstadtfuehrung.de/de/poi/rosengarten/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://bambergstadtfuehrung.de/en/poi/rosengarten/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://bambergstadtfuehrung.de/es/poi/rosengarten/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://bambergstadtfuehrung.de/fr/poi/rosengarten/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://bambergstadtfuehrung.de/it/poi/rosengarten/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://bambergstadtfuehrung.de/pt/poi/rosengarten/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://bambergstadtfuehrung.de/nl/poi/rosengarten/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://bambergstadtfuehrung.de/pl/poi/rosengarten/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://bambergstadtfuehrung.de/ja/poi/rosengarten/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bambergstadtfuehrung.de/de/poi/rosengarten/" />
   </url>
   <url>
-    <loc>https://bambergstadtfuehrung.de/fr/poi/schlenkerla/fr</loc>
-    <lastmod>2025-12-09T18:34:30.792Z</lastmod>
+    <loc>https://bambergstadtfuehrung.de/fr/poi/schlenkerla/</loc>
+    <lastmod>2025-12-10T13:55:49.115Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="de" href="https://bambergstadtfuehrung.de/de/poi/schlenkerla/fr" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://bambergstadtfuehrung.de/en/poi/schlenkerla/fr" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://bambergstadtfuehrung.de/es/poi/schlenkerla/fr" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://bambergstadtfuehrung.de/fr/poi/schlenkerla/fr" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://bambergstadtfuehrung.de/it/poi/schlenkerla/fr" />
-    <xhtml:link rel="alternate" hreflang="pt" href="https://bambergstadtfuehrung.de/pt/poi/schlenkerla/fr" />
-    <xhtml:link rel="alternate" hreflang="nl" href="https://bambergstadtfuehrung.de/nl/poi/schlenkerla/fr" />
-    <xhtml:link rel="alternate" hreflang="pl" href="https://bambergstadtfuehrung.de/pl/poi/schlenkerla/fr" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://bambergstadtfuehrung.de/ja/poi/schlenkerla/fr" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://bambergstadtfuehrung.de/en/poi/schlenkerla/fr" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://bambergstadtfuehrung.de/de/poi/schlenkerla/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://bambergstadtfuehrung.de/en/poi/schlenkerla/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://bambergstadtfuehrung.de/es/poi/schlenkerla/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://bambergstadtfuehrung.de/fr/poi/schlenkerla/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://bambergstadtfuehrung.de/it/poi/schlenkerla/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://bambergstadtfuehrung.de/pt/poi/schlenkerla/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://bambergstadtfuehrung.de/nl/poi/schlenkerla/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://bambergstadtfuehrung.de/pl/poi/schlenkerla/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://bambergstadtfuehrung.de/ja/poi/schlenkerla/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bambergstadtfuehrung.de/de/poi/schlenkerla/" />
   </url>
   <url>
-    <loc>https://bambergstadtfuehrung.de/fr/poi/schloss-geyerswoerth/fr</loc>
-    <lastmod>2025-12-09T18:34:30.792Z</lastmod>
+    <loc>https://bambergstadtfuehrung.de/fr/poi/schleuse-100/</loc>
+    <lastmod>2025-12-10T13:55:49.115Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="de" href="https://bambergstadtfuehrung.de/de/poi/schloss-geyerswoerth/fr" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://bambergstadtfuehrung.de/en/poi/schloss-geyerswoerth/fr" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://bambergstadtfuehrung.de/es/poi/schloss-geyerswoerth/fr" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://bambergstadtfuehrung.de/fr/poi/schloss-geyerswoerth/fr" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://bambergstadtfuehrung.de/it/poi/schloss-geyerswoerth/fr" />
-    <xhtml:link rel="alternate" hreflang="pt" href="https://bambergstadtfuehrung.de/pt/poi/schloss-geyerswoerth/fr" />
-    <xhtml:link rel="alternate" hreflang="nl" href="https://bambergstadtfuehrung.de/nl/poi/schloss-geyerswoerth/fr" />
-    <xhtml:link rel="alternate" hreflang="pl" href="https://bambergstadtfuehrung.de/pl/poi/schloss-geyerswoerth/fr" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://bambergstadtfuehrung.de/ja/poi/schloss-geyerswoerth/fr" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://bambergstadtfuehrung.de/en/poi/schloss-geyerswoerth/fr" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://bambergstadtfuehrung.de/de/poi/schleuse-100/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://bambergstadtfuehrung.de/en/poi/schleuse-100/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://bambergstadtfuehrung.de/es/poi/schleuse-100/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://bambergstadtfuehrung.de/fr/poi/schleuse-100/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://bambergstadtfuehrung.de/it/poi/schleuse-100/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://bambergstadtfuehrung.de/pt/poi/schleuse-100/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://bambergstadtfuehrung.de/nl/poi/schleuse-100/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://bambergstadtfuehrung.de/pl/poi/schleuse-100/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://bambergstadtfuehrung.de/ja/poi/schleuse-100/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bambergstadtfuehrung.de/de/poi/schleuse-100/" />
   </url>
   <url>
-    <loc>https://bambergstadtfuehrung.de/fr/poi/villa-concordia/fr</loc>
-    <lastmod>2025-12-09T18:34:30.792Z</lastmod>
+    <loc>https://bambergstadtfuehrung.de/fr/poi/schloss-geyerswoerth/</loc>
+    <lastmod>2025-12-10T13:55:49.115Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="de" href="https://bambergstadtfuehrung.de/de/poi/villa-concordia/fr" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://bambergstadtfuehrung.de/en/poi/villa-concordia/fr" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://bambergstadtfuehrung.de/es/poi/villa-concordia/fr" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://bambergstadtfuehrung.de/fr/poi/villa-concordia/fr" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://bambergstadtfuehrung.de/it/poi/villa-concordia/fr" />
-    <xhtml:link rel="alternate" hreflang="pt" href="https://bambergstadtfuehrung.de/pt/poi/villa-concordia/fr" />
-    <xhtml:link rel="alternate" hreflang="nl" href="https://bambergstadtfuehrung.de/nl/poi/villa-concordia/fr" />
-    <xhtml:link rel="alternate" hreflang="pl" href="https://bambergstadtfuehrung.de/pl/poi/villa-concordia/fr" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://bambergstadtfuehrung.de/ja/poi/villa-concordia/fr" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://bambergstadtfuehrung.de/en/poi/villa-concordia/fr" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://bambergstadtfuehrung.de/de/poi/schloss-geyerswoerth/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://bambergstadtfuehrung.de/en/poi/schloss-geyerswoerth/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://bambergstadtfuehrung.de/es/poi/schloss-geyerswoerth/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://bambergstadtfuehrung.de/fr/poi/schloss-geyerswoerth/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://bambergstadtfuehrung.de/it/poi/schloss-geyerswoerth/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://bambergstadtfuehrung.de/pt/poi/schloss-geyerswoerth/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://bambergstadtfuehrung.de/nl/poi/schloss-geyerswoerth/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://bambergstadtfuehrung.de/pl/poi/schloss-geyerswoerth/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://bambergstadtfuehrung.de/ja/poi/schloss-geyerswoerth/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bambergstadtfuehrung.de/de/poi/schloss-geyerswoerth/" />
   </url>
   <url>
-    <loc>https://bambergstadtfuehrung.de/fr/guides/top-10-attractions</loc>
-    <lastmod>2025-12-09T18:34:30.792Z</lastmod>
+    <loc>https://bambergstadtfuehrung.de/fr/poi/villa-concordia/</loc>
+    <lastmod>2025-12-10T13:55:49.115Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://bambergstadtfuehrung.de/de/poi/villa-concordia/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://bambergstadtfuehrung.de/en/poi/villa-concordia/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://bambergstadtfuehrung.de/es/poi/villa-concordia/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://bambergstadtfuehrung.de/fr/poi/villa-concordia/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://bambergstadtfuehrung.de/it/poi/villa-concordia/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://bambergstadtfuehrung.de/pt/poi/villa-concordia/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://bambergstadtfuehrung.de/nl/poi/villa-concordia/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://bambergstadtfuehrung.de/pl/poi/villa-concordia/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://bambergstadtfuehrung.de/ja/poi/villa-concordia/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bambergstadtfuehrung.de/de/poi/villa-concordia/" />
+  </url>
+  <url>
+    <loc>https://bambergstadtfuehrung.de/fr/guides/top-10-attractions/</loc>
+    <lastmod>2025-12-10T13:55:49.115Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="de" href="https://bambergstadtfuehrung.de/de/guides/top-10-sehenswuerdigkeiten" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://bambergstadtfuehrung.de/en/guides/top-10-sights" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://bambergstadtfuehrung.de/es/guides/top-10-atracciones" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://bambergstadtfuehrung.de/fr/guides/top-10-attractions" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://bambergstadtfuehrung.de/it/guides/top-10-attrazioni" />
-    <xhtml:link rel="alternate" hreflang="pt" href="https://bambergstadtfuehrung.de/pt/guides/top-10-atracoes" />
-    <xhtml:link rel="alternate" hreflang="nl" href="https://bambergstadtfuehrung.de/nl/guides/top-10-bezienswaardigheden" />
-    <xhtml:link rel="alternate" hreflang="pl" href="https://bambergstadtfuehrung.de/pl/guides/top-10-atrakcji" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://bambergstadtfuehrung.de/ja/guides/top-10-kanko-spots" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://bambergstadtfuehrung.de/en/guides/top-10-sights" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://bambergstadtfuehrung.de/de/guides/top-10-sehenswuerdigkeiten/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://bambergstadtfuehrung.de/en/guides/top-10-sights/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://bambergstadtfuehrung.de/es/guides/top-10-atracciones/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://bambergstadtfuehrung.de/fr/guides/top-10-attractions/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://bambergstadtfuehrung.de/it/guides/top-10-attrazioni/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://bambergstadtfuehrung.de/pt/guides/top-10-atracoes/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://bambergstadtfuehrung.de/nl/guides/top-10-bezienswaardigheden/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://bambergstadtfuehrung.de/pl/guides/top-10-atrakcji/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://bambergstadtfuehrung.de/ja/guides/top-10-kanko-spots/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bambergstadtfuehrung.de/de/guides/top-10-sehenswuerdigkeiten/" />
   </url>
   <url>
-    <loc>https://bambergstadtfuehrung.de/fr/guides/meilleure-visite-caves-biere</loc>
-    <lastmod>2025-12-09T18:34:30.792Z</lastmod>
+    <loc>https://bambergstadtfuehrung.de/fr/guides/meilleure-visite-caves-biere/</loc>
+    <lastmod>2025-12-10T13:55:49.115Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="de" href="https://bambergstadtfuehrung.de/de/guides/beste-bierkeller-tour" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://bambergstadtfuehrung.de/en/guides/best-beer-cellar-tour" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://bambergstadtfuehrung.de/es/guides/mejor-tour-cervecerias" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://bambergstadtfuehrung.de/fr/guides/meilleure-visite-caves-biere" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://bambergstadtfuehrung.de/it/guides/miglior-tour-birrerie" />
-    <xhtml:link rel="alternate" hreflang="pt" href="https://bambergstadtfuehrung.de/pt/guides/melhor-tour-cervejarias" />
-    <xhtml:link rel="alternate" hreflang="nl" href="https://bambergstadtfuehrung.de/nl/guides/beste-bierkelder-tour" />
-    <xhtml:link rel="alternate" hreflang="pl" href="https://bambergstadtfuehrung.de/pl/guides/najlepsza-wycieczka-piwnice-piwne" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://bambergstadtfuehrung.de/ja/guides/saiko-bia-kera-tsua" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://bambergstadtfuehrung.de/en/guides/best-beer-cellar-tour" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://bambergstadtfuehrung.de/de/guides/beste-bierkeller-tour/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://bambergstadtfuehrung.de/en/guides/best-beer-cellar-tour/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://bambergstadtfuehrung.de/es/guides/mejor-tour-cervecerias/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://bambergstadtfuehrung.de/fr/guides/meilleure-visite-caves-biere/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://bambergstadtfuehrung.de/it/guides/miglior-tour-birrerie/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://bambergstadtfuehrung.de/pt/guides/melhor-tour-cervejarias/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://bambergstadtfuehrung.de/nl/guides/beste-bierkelder-tour/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://bambergstadtfuehrung.de/pl/guides/najlepsza-wycieczka-piwnice-piwne/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://bambergstadtfuehrung.de/ja/guides/saiko-bia-kera-tsua/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bambergstadtfuehrung.de/de/guides/beste-bierkeller-tour/" />
   </url>
   <url>
-    <loc>https://bambergstadtfuehrung.de/fr/guides/spots-photo</loc>
-    <lastmod>2025-12-09T18:34:30.792Z</lastmod>
+    <loc>https://bambergstadtfuehrung.de/fr/guides/spots-photo/</loc>
+    <lastmod>2025-12-10T13:55:49.115Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="de" href="https://bambergstadtfuehrung.de/de/guides/fotospots" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://bambergstadtfuehrung.de/en/guides/photo-spots" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://bambergstadtfuehrung.de/es/guides/lugares-fotos" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://bambergstadtfuehrung.de/fr/guides/spots-photo" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://bambergstadtfuehrung.de/it/guides/spots-fotografici" />
-    <xhtml:link rel="alternate" hreflang="pt" href="https://bambergstadtfuehrung.de/pt/guides/pontos-fotos" />
-    <xhtml:link rel="alternate" hreflang="nl" href="https://bambergstadtfuehrung.de/nl/guides/fotospots" />
-    <xhtml:link rel="alternate" hreflang="pl" href="https://bambergstadtfuehrung.de/pl/guides/miejsca-zdjecia" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://bambergstadtfuehrung.de/ja/guides/foto-spots" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://bambergstadtfuehrung.de/en/guides/photo-spots" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://bambergstadtfuehrung.de/de/guides/fotospots/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://bambergstadtfuehrung.de/en/guides/photo-spots/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://bambergstadtfuehrung.de/es/guides/lugares-fotos/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://bambergstadtfuehrung.de/fr/guides/spots-photo/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://bambergstadtfuehrung.de/it/guides/spots-fotografici/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://bambergstadtfuehrung.de/pt/guides/pontos-fotos/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://bambergstadtfuehrung.de/nl/guides/fotospots/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://bambergstadtfuehrung.de/pl/guides/miejsca-zdjecia/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://bambergstadtfuehrung.de/ja/guides/foto-spots/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bambergstadtfuehrung.de/de/guides/fotospots/" />
   </url>
   <url>
-    <loc>https://bambergstadtfuehrung.de/fr/guides/stationnement-conseils-tarifs</loc>
-    <lastmod>2025-12-09T18:34:30.792Z</lastmod>
+    <loc>https://bambergstadtfuehrung.de/fr/guides/stationnement-conseils-tarifs/</loc>
+    <lastmod>2025-12-10T13:55:49.115Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="de" href="https://bambergstadtfuehrung.de/de/guides/parken-tipps-gebuehren" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://bambergstadtfuehrung.de/en/guides/parking-tips-fees" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://bambergstadtfuehrung.de/es/guides/estacionamiento-consejos-tarifas" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://bambergstadtfuehrung.de/fr/guides/stationnement-conseils-tarifs" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://bambergstadtfuehrung.de/it/guides/parcheggio-consigli-tariffe" />
-    <xhtml:link rel="alternate" hreflang="pt" href="https://bambergstadtfuehrung.de/pt/guides/estacionamento-dicas-taxas" />
-    <xhtml:link rel="alternate" hreflang="nl" href="https://bambergstadtfuehrung.de/nl/guides/parkeren-tips-kosten" />
-    <xhtml:link rel="alternate" hreflang="pl" href="https://bambergstadtfuehrung.de/pl/guides/parkowanie-wskazowki-oplaty" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://bambergstadtfuehrung.de/ja/guides/chusha-hinto-ryokin" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://bambergstadtfuehrung.de/en/guides/parking-tips-fees" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://bambergstadtfuehrung.de/de/guides/parken-tipps-gebuehren/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://bambergstadtfuehrung.de/en/guides/parking-tips-fees/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://bambergstadtfuehrung.de/es/guides/estacionamiento-consejos-tarifas/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://bambergstadtfuehrung.de/fr/guides/stationnement-conseils-tarifs/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://bambergstadtfuehrung.de/it/guides/parcheggio-consigli-tariffe/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://bambergstadtfuehrung.de/pt/guides/estacionamento-dicas-taxas/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://bambergstadtfuehrung.de/nl/guides/parkeren-tips-kosten/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://bambergstadtfuehrung.de/pl/guides/parkowanie-wskazowki-oplaty/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://bambergstadtfuehrung.de/ja/guides/chusha-hinto-ryokin/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bambergstadtfuehrung.de/de/guides/parken-tipps-gebuehren/" />
   </url>
   <url>
-    <loc>https://bambergstadtfuehrung.de/fr/guides/meilleure-periode-visiter</loc>
-    <lastmod>2025-12-09T18:34:30.792Z</lastmod>
+    <loc>https://bambergstadtfuehrung.de/fr/guides/meilleure-periode-visiter/</loc>
+    <lastmod>2025-12-10T13:55:49.115Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="de" href="https://bambergstadtfuehrung.de/de/guides/beste-reisezeit" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://bambergstadtfuehrung.de/en/guides/best-time-to-visit" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://bambergstadtfuehrung.de/es/guides/mejor-epoca-visitar" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://bambergstadtfuehrung.de/fr/guides/meilleure-periode-visiter" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://bambergstadtfuehrung.de/it/guides/miglior-periodo-visitare" />
-    <xhtml:link rel="alternate" hreflang="pt" href="https://bambergstadtfuehrung.de/pt/guides/melhor-epoca-visitar" />
-    <xhtml:link rel="alternate" hreflang="nl" href="https://bambergstadtfuehrung.de/nl/guides/beste-tijd-bezoeken" />
-    <xhtml:link rel="alternate" hreflang="pl" href="https://bambergstadtfuehrung.de/pl/guides/najlepszy-czas-odwiedzenie" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://bambergstadtfuehrung.de/ja/guides/besuto-shizun" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://bambergstadtfuehrung.de/en/guides/best-time-to-visit" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://bambergstadtfuehrung.de/de/guides/beste-reisezeit/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://bambergstadtfuehrung.de/en/guides/best-time-to-visit/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://bambergstadtfuehrung.de/es/guides/mejor-epoca-visitar/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://bambergstadtfuehrung.de/fr/guides/meilleure-periode-visiter/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://bambergstadtfuehrung.de/it/guides/miglior-periodo-visitare/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://bambergstadtfuehrung.de/pt/guides/melhor-epoca-visitar/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://bambergstadtfuehrung.de/nl/guides/beste-tijd-bezoeken/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://bambergstadtfuehrung.de/pl/guides/najlepszy-czas-odwiedzenie/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://bambergstadtfuehrung.de/ja/guides/besuto-shizun/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bambergstadtfuehrung.de/de/guides/beste-reisezeit/" />
   </url>
   <url>
-    <loc>https://bambergstadtfuehrung.de/fr/guides/bamberg-avec-enfants</loc>
-    <lastmod>2025-12-09T18:34:30.792Z</lastmod>
+    <loc>https://bambergstadtfuehrung.de/fr/guides/bamberg-avec-enfants/</loc>
+    <lastmod>2025-12-10T13:55:49.115Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="de" href="https://bambergstadtfuehrung.de/de/guides/bamberg-mit-kindern" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://bambergstadtfuehrung.de/en/guides/bamberg-with-children" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://bambergstadtfuehrung.de/es/guides/bamberg-con-ninos" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://bambergstadtfuehrung.de/fr/guides/bamberg-avec-enfants" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://bambergstadtfuehrung.de/it/guides/bamberga-con-bambini" />
-    <xhtml:link rel="alternate" hreflang="pt" href="https://bambergstadtfuehrung.de/pt/guides/bamberg-com-criancas" />
-    <xhtml:link rel="alternate" hreflang="nl" href="https://bambergstadtfuehrung.de/nl/guides/bamberg-met-kinderen" />
-    <xhtml:link rel="alternate" hreflang="pl" href="https://bambergstadtfuehrung.de/pl/guides/bamberg-z-dziecmi" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://bambergstadtfuehrung.de/ja/guides/kodomo-issho" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://bambergstadtfuehrung.de/en/guides/bamberg-with-children" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://bambergstadtfuehrung.de/de/guides/bamberg-mit-kindern/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://bambergstadtfuehrung.de/en/guides/bamberg-with-children/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://bambergstadtfuehrung.de/es/guides/bamberg-con-ninos/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://bambergstadtfuehrung.de/fr/guides/bamberg-avec-enfants/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://bambergstadtfuehrung.de/it/guides/bamberga-con-bambini/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://bambergstadtfuehrung.de/pt/guides/bamberg-com-criancas/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://bambergstadtfuehrung.de/nl/guides/bamberg-met-kinderen/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://bambergstadtfuehrung.de/pl/guides/bamberg-z-dziecmi/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://bambergstadtfuehrung.de/ja/guides/kodomo-issho/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bambergstadtfuehrung.de/de/guides/bamberg-mit-kindern/" />
   </url>
   <url>
-    <loc>https://bambergstadtfuehrung.de/fr/guides/bamberg-noel</loc>
-    <lastmod>2025-12-09T18:34:30.792Z</lastmod>
+    <loc>https://bambergstadtfuehrung.de/fr/guides/bamberg-noel/</loc>
+    <lastmod>2025-12-10T13:55:49.115Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="de" href="https://bambergstadtfuehrung.de/de/guides/bamberg-weihnachten" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://bambergstadtfuehrung.de/en/guides/bamberg-christmas" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://bambergstadtfuehrung.de/es/guides/bamberg-navidad" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://bambergstadtfuehrung.de/fr/guides/bamberg-noel" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://bambergstadtfuehrung.de/it/guides/bamberga-natale" />
-    <xhtml:link rel="alternate" hreflang="pt" href="https://bambergstadtfuehrung.de/pt/guides/bamberg-natal" />
-    <xhtml:link rel="alternate" hreflang="nl" href="https://bambergstadtfuehrung.de/nl/guides/bamberg-kerstmis" />
-    <xhtml:link rel="alternate" hreflang="pl" href="https://bambergstadtfuehrung.de/pl/guides/bamberg-swieta" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://bambergstadtfuehrung.de/ja/guides/kurisumasu" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://bambergstadtfuehrung.de/en/guides/bamberg-christmas" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://bambergstadtfuehrung.de/de/guides/bamberg-weihnachten/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://bambergstadtfuehrung.de/en/guides/bamberg-christmas/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://bambergstadtfuehrung.de/es/guides/bamberg-navidad/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://bambergstadtfuehrung.de/fr/guides/bamberg-noel/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://bambergstadtfuehrung.de/it/guides/bamberga-natale/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://bambergstadtfuehrung.de/pt/guides/bamberg-natal/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://bambergstadtfuehrung.de/nl/guides/bamberg-kerstmis/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://bambergstadtfuehrung.de/pl/guides/bamberg-swieta/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://bambergstadtfuehrung.de/ja/guides/kurisumasu/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bambergstadtfuehrung.de/de/guides/bamberg-weihnachten/" />
   </url>
 </urlset>
