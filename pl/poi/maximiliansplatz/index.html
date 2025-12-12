@@ -49,31 +49,64 @@
 <li><a href="https://www.gpsmycity.com/attractions/maximiliansplatz-%28maximilian-square%29-61739.html">https://www.gpsmycity.com/attractions/maximiliansplatz-%28maximilian-square%29-61739.html</a></li>
 </ol> </article> <!-- App CTA (single instance handles desktop card + mobile sticky) --> <aside class="lg:hidden fixed inset-x-0 bottom-0 z-50 translate-y-full opacity-0 pointer-events-none transition-[opacity,transform] duration-300 ease-out" role="region" aria-label="Wszystko w aplikacji wycieczki" data-show-after="240" data-astro-cid-vaugkzvb><div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8" style="padding-bottom: env(safe-area-inset-bottom);" data-astro-cid-vaugkzvb><div class="mb-3 rounded-t-2xl border border-neutral-200 bg-white/90 backdrop-blur supports-[backdrop-filter]:backdrop-blur-md shadow-lg px-4 py-3" data-astro-cid-vaugkzvb><div class="flex items-start gap-3" data-astro-cid-vaugkzvb><div class="min-w-0" data-astro-cid-vaugkzvb><p class="text-sm font-semibold text-gray-900" data-astro-cid-vaugkzvb>Wszystko w aplikacji wycieczki</p><p class="mt-0.5 text-sm text-gray-700 line-clamp-2" data-astro-cid-vaugkzvb>Interaktywna mapa, alerty GPS, godziny otwarcia i dodatkowe info – wszystkie atrakcje w jednym miejscu.</p><div class="mt-2 flex gap-3 items-center flex-wrap" data-astro-cid-vaugkzvb><a href="https://apps.apple.com/app/bamberg-city-tour/id6737908364?itsct=apps_box_badge&itscg=30200&campaign=website-default" class="store-badge-wrap" rel="noopener" target="_blank" aria-label="App Store – Wszystko w aplikacji wycieczki" data-astro-cid-vaugkzvb><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/pl-pl?size=150x50&releaseDate=1248739200" alt="App Store" class="store-badge store-badge--apple" loading="lazy" decoding="async" data-astro-cid-vaugkzvb></a><a href="https://play.google.com/store/apps/details?id=app.citytour.bamberg&pcampaignid=website-default" class="store-badge-wrap" rel="noopener" target="_blank" aria-label="Google Play – Wszystko w aplikacji wycieczki" data-astro-cid-vaugkzvb><img src="https://play.google.com/intl/en_us/badges/static/images/badges/pl_badge_web_generic.png" alt="Google Play" class="store-badge store-badge--play " loading="lazy" decoding="async" data-astro-cid-vaugkzvb></a></div></div></div></div></div><script>
       (() => {
-        // Find THIS aside
         const root = document.currentScript?.closest('aside');
         if (!root) return;
 
-        // No localStorage/sessionStorage at all
-        function reveal() {
+        const SHOW_AFTER = parseInt(root.dataset.showAfter || '240', 10);
+        const HIDE_BEFORE_FOOTER = 200; // px from bottom to hide sticky so footer stays visible
+
+        let revealed = false;
+
+        const reveal = () => {
+          revealed = true;
           root.style.transform = 'translateY(0)';
           root.style.opacity = '1';
           root.style.pointerEvents = 'auto';
-        }
+        };
 
-        // Reveal after scroll
-        const SHOW_AFTER = parseInt(root.dataset.showAfter || '240', 10);
-        const onScroll = () => {
-          if (window.scrollY > SHOW_AFTER) {
+        const hide = () => {
+          root.style.transform = 'translateY(110%)';
+          root.style.opacity = '0';
+          root.style.pointerEvents = 'none';
+        };
+
+        const update = () => {
+          const nearFooter = window.innerHeight + window.scrollY >= document.body.scrollHeight - HIDE_BEFORE_FOOTER;
+          if (nearFooter) {
+            hide();
+            return;
+          }
+          if (revealed || window.scrollY > SHOW_AFTER) {
             reveal();
-            window.removeEventListener('scroll', onScroll, { passive: true });
           }
         };
-        window.addEventListener('scroll', onScroll, { passive: true });
-        window.addEventListener('DOMContentLoaded', () => {
-          if (window.scrollY > SHOW_AFTER) {
-            reveal();
-            window.removeEventListener('scroll', onScroll, { passive: true });
-          }
-        });
+
+        window.addEventListener('scroll', update, { passive: true });
+        window.addEventListener('DOMContentLoaded', update);
+        update();
       })();
-    </script></aside><aside class="hidden lg:flex fixed right-6 bottom-6 z-40 max-w-sm rounded-xl border border-neutral-200 bg-white/90 backdrop-blur shadow-lg p-4 gap-3 sticky-cta" role="complementary" aria-label="Wszystko w aplikacji wycieczki" data-astro-cid-vaugkzvb><div class="min-w-0" data-astro-cid-vaugkzvb><p class="text-sm font-semibold text-gray-900" data-astro-cid-vaugkzvb>Wszystko w aplikacji wycieczki</p><p class="mt-0.5 text-sm text-gray-700" data-astro-cid-vaugkzvb>Interaktywna mapa, alerty GPS, godziny otwarcia i dodatkowe info – wszystkie atrakcje w jednym miejscu.</p><div class="mt-2 flex gap-3 items-center flex-wrap" data-astro-cid-vaugkzvb><a href="https://apps.apple.com/app/bamberg-city-tour/id6737908364?itsct=apps_box_badge&itscg=30200&campaign=website-default" class="store-badge-wrap" rel="noopener" target="_blank" aria-label="App Store – Wszystko w aplikacji wycieczki" data-astro-cid-vaugkzvb><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/pl-pl?size=150x50&releaseDate=1248739200" alt="App Store" class="store-badge store-badge--apple" loading="lazy" decoding="async" data-astro-cid-vaugkzvb></a><a href="https://play.google.com/store/apps/details?id=app.citytour.bamberg&pcampaignid=website-default" class="store-badge-wrap" rel="noopener" target="_blank" aria-label="Google Play – Wszystko w aplikacji wycieczki" data-astro-cid-vaugkzvb><img src="https://play.google.com/intl/en_us/badges/static/images/badges/pl_badge_web_generic.png" alt="Google Play" class="store-badge store-badge--play " loading="lazy" decoding="async" data-astro-cid-vaugkzvb></a></div></div></aside> <!-- Visible FAQ --> <section class="mt-10"> <h2 class="text-2xl font-semibold mb-4"> FAQ </h2> <dl class="space-y-4"> <div> <dt class="font-medium">Dlaczego mówi się „Maxplatz”?</dt> <dd class="text-gray-700">Oficjalna nazwa to Maximiliansplatz—od króla Maksymiliana I Józefa Bawarskiego—lecz mieszkańcy mówią „Maxplatz”. [2][3]</dd> </div> </dl> </section> </div>  </main> <footer class="bg-gray-800 text-white"> <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8"> <div class="grid grid-cols-1 md:grid-cols-3 gap-8"> <div> <h3 class="text-lg font-semibold mb-4"> Twoja wycieczka po Bambergu </h3> <p class="text-gray-300 text-sm">        Twoja aplikacja wycieczki miejskiej z GPS dla Bambergu  </p> </div> <div> <h4 class="text-md font-semibold mb-4">        Prawne  </h4> <ul class="space-y-2"> <li> <a href="/impressum/" class="text-gray-300 hover:text-white text-sm transition-colors">        Informacje Prawne  </a> </li> <li> <a href="/datenschutz/" class="text-gray-300 hover:text-white text-sm transition-colors">        Polityka Prywatności  </a> </li> <li> <a href="/terms-of-use/" class="text-gray-300 hover:text-white text-sm transition-colors">        Warunki korzystania  </a> </li> </ul> </div> <div> <h4 class="text-md font-semibold mb-4">        Kontakt  </h4> <div class="text-gray-300 text-sm space-y-1"> <p>info@bambergstadtfuehrung.de</p> <p>Bamberg, Niemcy </p> </div> </div> </div> <div class="border-t border-gray-700 mt-8 pt-8 text-center"> <p class="text-gray-300 text-sm">&copy; 2025 Dustin Eversmann. All rights reserved.</p> </div> </div> </footer> </body></html>
+    </script></aside><aside class="hidden lg:flex fixed right-6 bottom-6 z-40 max-w-sm rounded-xl border border-neutral-200 bg-white/90 backdrop-blur shadow-lg p-4 gap-3 sticky-cta" role="complementary" aria-label="Wszystko w aplikacji wycieczki" data-astro-cid-vaugkzvb><div class="min-w-0" data-astro-cid-vaugkzvb><p class="text-sm font-semibold text-gray-900" data-astro-cid-vaugkzvb>Wszystko w aplikacji wycieczki</p><p class="mt-0.5 text-sm text-gray-700" data-astro-cid-vaugkzvb>Interaktywna mapa, alerty GPS, godziny otwarcia i dodatkowe info – wszystkie atrakcje w jednym miejscu.</p><div class="mt-2 flex gap-3 items-center flex-wrap" data-astro-cid-vaugkzvb><a href="https://apps.apple.com/app/bamberg-city-tour/id6737908364?itsct=apps_box_badge&itscg=30200&campaign=website-default" class="store-badge-wrap" rel="noopener" target="_blank" aria-label="App Store – Wszystko w aplikacji wycieczki" data-astro-cid-vaugkzvb><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/pl-pl?size=150x50&releaseDate=1248739200" alt="App Store" class="store-badge store-badge--apple" loading="lazy" decoding="async" data-astro-cid-vaugkzvb></a><a href="https://play.google.com/store/apps/details?id=app.citytour.bamberg&pcampaignid=website-default" class="store-badge-wrap" rel="noopener" target="_blank" aria-label="Google Play – Wszystko w aplikacji wycieczki" data-astro-cid-vaugkzvb><img src="https://play.google.com/intl/en_us/badges/static/images/badges/pl_badge_web_generic.png" alt="Google Play" class="store-badge store-badge--play " loading="lazy" decoding="async" data-astro-cid-vaugkzvb></a></div></div><script>
+      (() => {
+        const card = document.currentScript?.closest('aside');
+        if (!card) return;
+
+        const HIDE_BEFORE_FOOTER = 200; // px from bottom to hide so footer stays visible
+
+        const update = () => {
+          const nearFooter = window.innerHeight + window.scrollY >= document.body.scrollHeight - HIDE_BEFORE_FOOTER;
+          if (nearFooter) {
+            card.style.transform = 'translateY(110%)';
+            card.style.opacity = '0';
+            card.style.pointerEvents = 'none';
+          } else {
+            card.style.transform = 'translateY(0)';
+            card.style.opacity = '1';
+            card.style.pointerEvents = 'auto';
+          }
+        };
+
+        window.addEventListener('scroll', update, { passive: true });
+        window.addEventListener('DOMContentLoaded', update);
+        update();
+      })();
+    </script></aside> <!-- Visible FAQ --> <section class="mt-10"> <h2 class="text-2xl font-semibold mb-4"> FAQ </h2> <dl class="space-y-4"> <div> <dt class="font-medium">Dlaczego mówi się „Maxplatz”?</dt> <dd class="text-gray-700">Oficjalna nazwa to Maximiliansplatz—od króla Maksymiliana I Józefa Bawarskiego—lecz mieszkańcy mówią „Maxplatz”. [2][3]</dd> </div> </dl> </section> </div>  </main> <footer class="bg-gray-800 text-white"> <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8"> <div class="grid grid-cols-1 md:grid-cols-3 gap-8"> <div> <h3 class="text-lg font-semibold mb-4"> Twoja wycieczka po Bambergu </h3> <p class="text-gray-300 text-sm">        Twoja aplikacja wycieczki miejskiej z GPS dla Bambergu  </p> </div> <div> <h4 class="text-md font-semibold mb-4">        Prawne  </h4> <ul class="space-y-2"> <li> <a href="/impressum/" class="text-gray-300 hover:text-white text-sm transition-colors">        Informacje Prawne  </a> </li> <li> <a href="/datenschutz/" class="text-gray-300 hover:text-white text-sm transition-colors">        Polityka Prywatności  </a> </li> <li> <a href="/terms-of-use/" class="text-gray-300 hover:text-white text-sm transition-colors">        Warunki korzystania  </a> </li> </ul> </div> <div> <h4 class="text-md font-semibold mb-4">        Kontakt  </h4> <div class="text-gray-300 text-sm space-y-1"> <p>info@bambergstadtfuehrung.de</p> <p>Bamberg, Niemcy </p> </div> </div> </div> <div class="border-t border-gray-700 mt-8 pt-8 text-center"> <p class="text-gray-300 text-sm">&copy; 2025 Dustin Eversmann. All rights reserved.</p> </div> </div> </footer> </body></html>
